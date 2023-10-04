@@ -1,0 +1,13 @@
+/* style.css */
+body {
+    color: brown;
+    font-size: 1.2em;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+#new {
+    font-weight: bold;
+    font-style: italic;
+}
+
+
